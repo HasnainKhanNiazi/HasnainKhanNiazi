@@ -6,11 +6,11 @@ My name is **Hasnain** and I'm a **Machine Learning** engineer with more then 3 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d92929)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=d92929)
 
-![](https://img.shields.io/badge//Environment-Anaonda-informational?style=flat&logo=anaconda&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Environment-Anaonda-informational?style=flat&logo=anaconda&logoColor=white&color=d92929)
 ![](https://img.shields.io/badge/Editor-Unity3D_Engine-informational?style=flat&logo=unity&logoColor=white&color=d92929)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=d92929)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-Jupyter-Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=d92929)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=d92929)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=d92929)
