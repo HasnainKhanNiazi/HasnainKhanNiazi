@@ -26,7 +26,7 @@ My name is **Hasnain** and I'm a **Machine Learning** engineer with more then 3 
 ## 🧑‍🤝‍🧑 Social Medias
 [Discord](https://discord.gg/mUUV7KAF) • [LinkedIn](https://www.linkedin.com/in/hasnainkhanniazi/)
 
-## 📈 GitHub Statistics
-![Metrics](https://metrics.lecoq.io/kkrypt0nn?template=terminal&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true)
+<!-- ## 📈 GitHub Statistics -->
+<!-- ![Metrics](https://metrics.lecoq.io/kkrypt0nn?template=terminal&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true) -->
 
 ![](https://komarev.com/ghpvc/?username=HasnainKhanNiazi&color=d92929)
