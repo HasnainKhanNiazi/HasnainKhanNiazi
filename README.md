@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is **Hasnain** and I'm a **Machine Learning** engineer with more then 3 years of experience. My areas of experties are **Computer Vision** and **Natural Language Processing**.
+My name is **Hasnain** and I'm a **Machine Learning** engineer with more then 4 years of experience. My areas of experties are **Computer Vision** and **Natural Language Processing**.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=d92929)
