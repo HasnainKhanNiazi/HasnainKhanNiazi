@@ -5,10 +5,6 @@
 - 😄 Pronouns: He/His/Him
 <!--- 📫 How to reach me: ...-->
 
-<!--- ⚡ Fun fact: ...-->
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=Randrita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">-->
-
 <p align="center">
  <img   src="https://github.com/HasnainKhanNiazi/HasnainKhanNiazi/blob/main/1_n3TBO5i8hrYAujlhiHoE_w.gif">
 </p>
@@ -40,8 +36,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasnainKhanNiazi&show_icons=true&theme=radical" width="320" />
-  <img src="https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif" width="320" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnainKhanNiazi&show_icons=true&theme=radical" width="640" />
+<!--   <img src="https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif" width="320" />  -->
 </p>
 
 
