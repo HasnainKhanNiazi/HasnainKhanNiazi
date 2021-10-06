@@ -6,7 +6,7 @@
 <!--- 📫 How to reach me: ...-->
 
 <p align="center">
- <img   src="https://github.com/HasnainKhanNiazi/HasnainKhanNiazi/blob/main/1_n3TBO5i8hrYAujlhiHoE_w.gif">
+ <img   src="https://github.com/HasnainKhanNiazi/HasnainKhanNiazi/blob/main/Header.gif">
 </p>
 <h2 align="center">Hello there! I'm Muhammad Hasnain Khan. 👋🤓</h2>
 <p align="center">I have done my bachelro's from University of Bradford in CS and have done my Master's in Data Science from Fast Nuces Islamabad. I'm passionate about areas of machine learning like deep learning, NLP, Computer Vision and reinforcement learning. I've strong grip on Python and have solved many problems related to Computer Vision and NLP.
